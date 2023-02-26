@@ -77,6 +77,6 @@ function curlNoise(x, y, z) {
 	return angle/TAU;
 	
 }
-function keyPressed() {
-	if(key.toLowerCase() === 's') setup();
+function mousePressed() {
+	setup();
 }
