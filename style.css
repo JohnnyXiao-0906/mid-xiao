@@ -1,7 +1,33 @@
-html, body {
-  margin: 0;
-  padding: 0;
+h1{
+  margin-left: auto;
+  margin-right: auto;
+  margin:10px;
+  padding:5px 10px;
+  position: absolute; 
+  left: 3.5%;
+  top: 55.3%;
+ }
+
+ h3{
+  font-size: 1vw; 
+  font-family: ANTQUABI;
+  position: absolute;
+  left: 90%;
+  top: 90.3%;
 }
-canvas {
-  display: block;
+
+ h4{
+    font-size: 1vw; 
+    font-family: ANTQUABI;
+    position: absolute;
+    left: 75%;
+    top: 89.7%;
+ }
+ 
+a{
+  color:black;
+}
+
+a:hover{
+  color:#bbbbbb;
 }
